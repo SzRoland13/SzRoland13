@@ -2,7 +2,6 @@
 🔭 I’m currently working as a fullstack developer.
 <br>I’m currently learning:<br>  🌱Java/Spring boot to have a more solid knowledge on how to make enterprise level backends.<br>  🌱Typescript/Next.js to have a very good knowledge of modern and responsive websites.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rolandszabo1213) 
 
