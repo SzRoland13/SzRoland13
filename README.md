@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a fullstack developer.<br>🌱 I’m currently learning:<br>Java/Spring boot to have a more solid knowledge on how to make enterprise level backends.<br>Typescript/Next.js to have a very good knowledge of modern and responsive websites.
+🔭 I’m currently working as a fullstack developer.<br>🌱 I’m currently learning:<br>  🌱Java/Spring boot to have a more solid knowledge on how to make enterprise level backends.<br>  🌱Typescript/Next.js to have a very good knowledge of modern and responsive websites.
 
 
 ## 🌐 Socials:
